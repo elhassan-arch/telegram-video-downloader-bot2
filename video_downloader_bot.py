@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import hashlib
 
 # Your API Token (7990538594:AAHfpWypQ-CEzS4jmAx0-SNU8ZPfE52PRUg)
-API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+API_TOKEN = '7990538594:AAHfpWypQ-CEzS4jmAx0-SNU8ZPfE52PRUg'
 
 # Stripe keys (replace with your actual Stripe keys)
 STRIPE_SECRET_KEY = 'sk_test_51RNcv3PsEYwohgvB0EMu3swK5WmFkVDeaCPGfLR961ebd5z6An6Xm4hcgLtHMbQwl5HgvSIZ6qSaz8Z9IHKtTDBh00zIFiidlv'
